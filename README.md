@@ -345,7 +345,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 1. **Check Documentation**: This README file
 2. **Browse Issues**: Check existing issues for solutions
 3. **Create New Issue**: For bugs or feature requests
-4. **Email Support**: siv3sh@example.com
+4. **Email Support**: siv3sh@gmail.com
 
 ### Community
 - **GitHub Discussions**: For questions and ideas
@@ -363,7 +363,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Contact
 
 - **Project Maintainer**: Sivesh Pb
-- **Email**: siv3sh@example.com
+- **Email**: siv3sh@gmail.com
 
 
 ---
