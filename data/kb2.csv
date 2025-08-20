@@ -1,0 +1,136 @@
+ne,Registration Number,Name,Gender,Email,Class,Company,Placement Type,Role,Compensation: CTC,Stiepend (per month),Placement Origin,Unnamed: 12,Unnamed: 13,Recruitment Process,Type,Acronym,Unnamed: 17,Unnamed: 18,Unnamed: 19,Average CGPA
+1,2347203,ADHISH BAHL,MALE,adhish.bahl@mca.christuniversity.in,MCA B,Cloudurity Services LLP,FTI + PBPPO,Frontend Development,8-10 LPA,"30,000",Department,NA,NA,https://docs.google.com/document/d/1aevL014fzbAh7Pb9oFzErdTxHgeVjwz7i9Y_xWHg8g4/edit?usp=sharing,"Full Time Internship for x months
+
+Default x = 6",FTIx,NA,NA,NA,3.4342858200399453
+2,2347111,BIVAS KUMAR,MALE,bivas.kumar@mca.christuniversity.in,MCA A,Cloudurity Services LLP,FTI + PBPPO,Python Backend Development,8-10 LPA,"30,000",Department,NA,NA,NA,Full Time Employment,FTE,NA,NA,NA,0.775110434025648
+3,2347139,PUNITH RAJ S P,MALE,punith.raj@mca.christuniversity.in,MCA A,Cloudurity Services LLP,FTI + PBPPO,Frontend Development,8-10 LPA,"30,000",Department,NA,NA,NA,Part Time Internship for x months,PTIx,NA,NA,NA,7.411867916309333
+4,2347126,L VINAY KUMAR REDDY,MALE,vinaykumar.reddy@mca.christuniversity.in,MCA A,Cloudurity Services LLP,FTI + PBPPO,Python Backend Development,8-10 LPA,"30,000",Department,NA,NA,NA,Pre Placement Offer (Conversion),PPO,NA,NA,NA,1.7624077661948292
+5,2348566,SWASTIK BANERJEE,MALE,swastik.banerjee@msam.christuniversity.in,MSc AIML,Cloudurity Services LLP,FTI + PBPPO,LLM Researcher,8-10 LPA,"30,000",Department,NA,NA,NA,Performance Based,PB,NA,NA,NA,6.863086597079649
+6,2347102,ADARSH KUMAR DASH,MALE,adarsh.kumar@mca.christuniversity.in,MCA A,SuperAGI,FTI + PBPPO,Software Engineer Intern,6-9 LPA,"20,000",Department,NA,NA,https://docs.google.com/document/d/1dLB1J-Mzw6KzdL2_5qGcv2bQQjTToso-zvtMUGc028s/edit?usp=sharing,Off Campus,OC,NA,NA,NA,6.880858497076195
+7,2347136,OISHI HALDER,FEMALE,oishi.halder@mca.christuniversity.in,MCA A,SuperAGI,FTI + PBPPO,Software Engineer Intern,6-9 LPA,"20,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,7.533430922998705
+8,2347218,CHRIS ALISTER,MALE,chris.alister@mca.christuniversity.in,MCA B,SuperAGI,FTI + PBPPO,Software Engineer Intern,6-9 LPA,"20,000",Department,NA,NA,NA,On Campus Placement Stats,NA,NA,NA,NA,1.8909594462850277
+9,2347160,SUBHOJEET SAHOO,MALE,subhojeet.sahoo@mca.christuniversity.in,MCA A,SuperAGI,FTI + PBPPO,Software Engineer Intern,6-9 LPA,"20,000",Department,NA,NA,NA,Class,Placed Count,Boys,Girls,Placed Percentage,6.313862739080098
+10,2347213,ANURAG PARASHAR SARMAH,MALE,anurag.parashar@mca.christuniversity.in,MCA B,Syncron,FTI + PBPPO,Technical Support Engineer,9-10 LPA,"30,000",Department,NA,NA,https://docs.google.com/document/d/1K4ksmhkC6SFA7hGshdVW3VCPVxNRyCIiWAd6Q1nxkDs/edit?usp=sharing,MCA A,39,25,14,63.93,7.268823547138833
+11,2347237,MANOJ KUMAR D,MALE,manoj.kumar@mca.christuniversity.in,MCA B,ReachInbox,PTI3 + FTI3 + PBPPO,Associate Backend Engineer,8 LPA,"30,000",CPCG,NA,NA,NA,MCA B,36,26,10,57.14,0.4904638185624079
+12,2347264,VISHAL KALITA,MALE,vishal.kalita@mca.christuniversity.in,MCA B,Corestrat Labs,FTI4 + PBPPO,Software Engineer Intern,7.2 LPA,"25,000",Department,NA,NA,https://docs.google.com/document/d/1OX3SeSuIfM0eFTJWe70uEVRIXyZ3i1GtecYabLn9ooU/edit?usp=sharing,MSc AIML,16,7,9,23.19,3.085875586763147
+13,2347143,RISHITA SHAH,FEMALE,rishita.shah@mca.christuniversity.in,MCA A,Corestrat Labs,FTI4 + PBPPO,Software Engineer Intern,7.2 LPA,"25,000",Department,NA,NA,NA,TOTAL,91,58,33,47.4,4.0467657471241045
+14,2347144,RITHIN PAUL THOMAS,MALE,rithin.paul@mca.christuniversity.in,MCA A,Corestrat Labs,FTI4 + PBPPO,Software Engineer Intern,7.2 LPA,"25,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,7.36262340654804
+15,2347113,CHIRANJEEV SEHGAL,MALE,chiranjeev.sehgal@mca.christuniversity.in,MCA A,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,https://docs.google.com/document/d/1svm3QRXy98NAOD1nsFtOmEuAz0P5tNCi663uNFR-WIE/edit?addon_store,Off Campus Placement Stats,NA,NA,NA,NA,1.4672884649417877
+16,2347115,EDUPUNOOR CHITRALA GREESHMA,FEMALE,chitrala.greeshma@mca.christuniversity.in,MCA A,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,Class,Placed Count,Boys,Girls,Placed Percentage,5.600685783891996
+17,2347141,RAJDEEP BANIK,MALE,rajdeep.banik@mca.christuniversity.in,MCA A,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,MCA A,11,9,2,18.03,5.9736011077461475
+18,2347138,PRATHAM M,MALE,pratham.m@mca.christuniversity.in,MCA A,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,MCA B,11,7,4,17.46,2.2096747151750593
+19,2347260,SURYANSH BACHCHAN VERMA,MALE,suryansh.bachchanverma@mca.christuniversity.in,MCA B,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,MSc AIML,20,13,7,28.99,3.8162511034321107
+20,2347224,HRISHABH GAUTAM,MALE,hrishabh.gautam@mca.christuniversity.in,MCA B,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,TOTAL,42,29,13,21.88,3.2638542476835877
+21,2347159,SREENATH V,MALE,sreenath.v@mca.christuniversity.in,MCA A,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,1.558694172948191
+22,2347256,SHUBHAM MISHRA,MALE,shubham.mishra@mca.christuniversity.in,MCA B,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,Total Campus Placement Stats,NA,NA,NA,NA,7.012645666767375
+23,2347137,P PRANAV,MALE,p.pranav@mca.christuniversity.in,MCA A,Trivium eSolutions,FTI + PBPPO,Associate Software/QA Engineer,6 LPA,"25,000",Department,NA,NA,NA,Class,Placed Count,Boys,Girls,Placed Percentage,4.743535404057748
+24,2347114,DUBEY AARAV SHAILESH,MALE,dubey.aaravshailesh@mca.christuniversity.in,MCA A,Akasa Air,FTI + PBPPO,Full Stack Engineer,10-12 LPA,"30,000",Department,NA,NA,https://docs.google.com/document/d/1bSSs1JPzwYaJlV4WW0jUvr8ZK---WlUZtSbK4Gcx5_w/edit?usp=sharing,MCA A,50,34,16,81.97,5.8654637197933965
+25,2347231,KENNETH DOMINIC FERNANDES,MALE,kenneth.dominic@mca.christuniversity.in,MCA B,Akasa Air,FTI + PBPPO,Full Stack Engineer,10-12 LPA,"30,000",Department,NA,NA,NA,MCA B,47,33,14,74.6,3.7788663777467066
+26,2347265,VISHNU SWAROOP P S,MALE,vishnu.swaroop@mca.christuniversity.in,MCA B,Akasa Air,FTI + PBPPO,Data Engineer,10-12 LPA,"30,000",Department,NA,NA,NA,MSc AIML,36,20,16,52.17,4.894228846567199
+27,2347208,AMAR G NATH,MALE,amar.nath@mca.christuniversity.in,MCA B,Akasa Air,FTI + PBPPO,Full Stack Engineer,10-12 LPA,"30,000",Department,NA,NA,NA,TOTAL,133,87,46,69.27,5.051985945730615
+28,2347259,SURAJ BISWAS,MALE,suraj.biswas@mca.christuniversity.in,MCA B,Akasa Air,FTI + PBPPO,Data Engineer,10-12 LPA,"30,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,6.193837789000149
+29,2347117,HEMANGSHU DEY,MALE,hemangshu.dey@mca.christuniversity.in,MCA A,Code Walnut,FTI + PBPPO,Software Engineer Intern,7.2-8.4 LPA,"35,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,3.4013412235131018
+30,2347261,SUVAJIT KARMAKAR,MALE,suvajit.karmakar@mca.christuniversity.in,MCA B,Code Walnut,FTI + PBPPO,Software Engineer Intern,7.2-8.4 LPA,"35,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,6.746219915080817
+31,2347214,ARAVIND NANDAKUMAR,MALE,aravind.nandakumar@mca.christuniversity.in,MCA B,Code Walnut,FTI + PBPPO,Software Engineer Intern,7.2-8.4 LPA,"35,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,3.808714663278418
+32,2347230,KAVASKAR S,MALE,kavaskar.s@mca.christuniversity.in,MCA B,Code Walnut,FTI + PBPPO,Software Engineer Intern,7.2-8.4 LPA,"35,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.336186509051957
+33,2347234,LIKITHA YADAV G,FEMALE,likitha.yadav@mca.christuniversity.in,MCA B,Code Walnut,FTI + PBPPO,Software Engineer Intern,7.2-8.4 LPA,"35,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,7.5115393409408355
+34,2347236,MANJU THAMPAN,FEMALE,manju.thampan@mca.christuniversity.in,MCA B,Lead Walnut,FTI + PBPPO,Business Analyst Intern,7.2-8.4 LPA,"35,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,2.333338907509362
+35,2348561,SOHELI PAUL,FEMALE,soheli.paul@msam.christuniversity.in,MSc AIML,My Operator,FTI + PBPPO,AI Engineer,5-8 LPA,"20,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,7.37494838223461
+36,2348505,ANUSHKA MAZUMDAR,FEMALE,anushka.mazumdar@msam.christuniversity.in,MSc AIML,My Operator,FTI + PBPPO,AI Engineer,5-8 LPA,"20,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.631594645962162
+37,2347232,KOUSHIK DAS,MALE,koushik.das@mca.christuniversity.in,MCA A,Karbon Card,FTI + PBPPO,Full Stack Intern,8-10 LPA,"20,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,5.283396628750403
+38,2347152,SHAH VANSH PARAS,MALE,shah.vanshparas@mca.christuniversity.in,MCA A,Karbon Card,FTI + PBPPO,Full Stack Intern,8-10 LPA,"20,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,3.8708391896689096
+39,2347164,VISESH AGARWAL,MALE,visesh.agarwal@mca.christuniversity.in,MCA B,Karbon Card,FTI + PBPPO,Full Stack Intern,8-10 LPA,"20,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,1.1164054762353084
+40,2347134,NEEMA MARTIN MANADAN,FEMALE,neema.martin@mca.christuniversity.in,MCA A,Karbon Card,FTI + PBPPO,Product Intern,8-10 LPA,"20,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,0.11296272635277049
+41,2348547,RITUSHREE DEY,FEMALE,ritushree.dey@msam.christuniversity.in,MSc AIML,EY / Probe Information Services Pvt Ltd.,FTE / OC,Assurance Tech Risk NFS / Software Engineer Intern,4.83 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.0516065917060855
+42,2348563,SUHAS S,MALE,suhas.s@msam.christuniversity.in,MSc AIML,EY,FTE,Assurance Tech Risk NFS,4.83 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,6.944454078427654
+43,2348541,PRIYANSHA UPADHYAY,FEMALE,priyansha.upadhyay@msam.christuniversity.in,MSc AIML,EY,FTE,Assurance Tech Risk NFS,4.83 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,1.2205647205431096
+44,2347118,HITESH SALIMATH,MALE,hitesh.salimath@mca.christuniversity.in,MCA A,EY,FTE,Assurance Tech Risk NFS,4.83 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,2.8576698122161677
+45,2347122,JUSTIN ZIV PATIL,MALE,justin.zivpatil@mca.christuniversity.in,MCA A,NeoStats,FTI + PBPPO,Cloud Data Engineer,6.5 LPA + 50K Bonus,"25,000 + 5K Bonus",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,3.6285943636588973
+46,2348507,BADRINARAYANAN S,MALE,badrinarayanan.s@msam.christuniversity.in,MSc AIML,NeoStats,FTI + PBPPO,Gen AI Role,6.5 LPA + 50K Bonus,"25,000 + 5K Bonus",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.55136153833014
+47,2348569,TANISHA DAS,FEMALE,tanisha.das@msam.christuniversity.in,MSc AIML,RevInsight,FTI + PBPPO,Decision Analytics/Intelligence Intern,8-10 LPA,"30,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,7.401286251626541
+48,2348537,NEHA SEIRAH BIJU,FEMALE,neha.biju@msam.christuniversity.in,MSc AIML,RevInsight,FTI + PBPPO,Decision Analytics/Intelligence Intern,8-10 LPA,"30,000",Department,NA,NA,NA,NA,NA,NA,NA,NA,6.087963635738622
+49,2347145,ROSE MICHELLE MATHEW,FEMALE,rose.michelle@mca.christuniversity.in,MCA A,Tech Mahindra,FTI + PPO,Associate Data Analyst/ Data Engineer/ Data Scientist/ Business Analyst,5.4 LPA + 40k RB,37500 + 50K Bonus,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,7.562887526099206
+50,2348544,RAHUL KRISHNA K R,MALE,rahul.krishna@msam.christuniversity.in,MSc AIML,Tech Mahindra,FTI + PPO,Associate Data Analyst/ Data Engineer/ Data Scientist/ Business Analyst,5.4 LPA + 40k RB,37500 + 50K Bonus,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,0.22923235730152675
+51,2348509,BAMMIDI ABHINAV,MALE,bammidi.abhinav@msam.christuniversity.in,MSc AIML,Applied Materials,FTIx,Technical Writer Intern,-,40000,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,0.7516515602705227
+52,2347140,RAJASREE BARURI,FEMALE,rajasree.baruri@mca.christuniversity.in,MCA A,Talview,FTI + PPO,Software Developer Intern,-,"15,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,2.3501243193550305
+53,2347151,SHAH RIYA PRANAV,FEMALE,shah.riyapranav@mca.christuniversity.in,MCA A,Talview,FTI + PPO,Software Developer Intern,-,"15,000",CPCG,NA,NA,NA,NA,NA,NA,NA,NA,1.8302559303546844
+54,2348506,ARJUN P DINESH,MALE,arjun.dinesh@msam.christuniversity.in,MSc AIML,DeepLogic AI,OC,AI Engineer Intern,NA,10K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,2.1469715942994423
+55,2348552,SANJAY RAM P,MALE,sanjay.ram@msam.christuniversity.in,MSc AIML,Neo Tokyo,OC,AI Software Engineer Intern,NA,15K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,0.2964623790506087
+56,2347155,SHREYANS JAIN,MALE,shreyans.jain@mca.christuniversity.in,MCA A,Businessnext,OC,GET (Graduate Engineer Trainee),NA,25K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,7.035630392365663
+57,2348503,ALEENA VARGHESE,FEMALE,aleena.varghese@msam.christuniversity.in,MSc AIML,SenseSys ,OC,AI/ML Engineering Intern,NA,18K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,3.575705862569939
+58,2347154,SHREY GUPTA,MALE,shrey.gupta@mca.christuniversity.in,MCA A,IPSOS,OC,ASSOCIATE ANALYST,5.5 LPA,5.5 LPA,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,6.7194850913283055
+59,2348547,RITUSHREE DEY,FEMALE,ritushree.dey@msam.christuniversity.in,MSc AIML,Probe Information Services Pvt Ltd.,OC,Software Engineer Intern,NA,20k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,4.170994829088218
+60,2347163,UMA MAGESWARI K K,FEMALE,uma.mageswari@mca.christuniversity.in,MCA A,Desicrew solutions,OC,Data Science Intern,NA,15k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,7.867862581590806
+61,2347202,ABIN SIBI,MALE,abin.sibi@mca.christuniversity.in,MCA B,Nova Healthcare Management Systems Limited,OC,Web and Mobile Development Intern,NA,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,5.787804761747237
+62,2347110,AVIK MALLICK,MALE,avik.mallick@mca.christuniversity.in,MCA A,Tec Tigers,FTI + PBPPO,Technical Presales Intern,6-7 LPA,10k,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.2401220880262287
+63,2347210,ANCY BINNY,FEMALE,ancy.binny@mca.christuniversity.in,MCA B,Tec Tigers,FTI + PBPPO,Business Development Intern,6-7 LPA,10k,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.1656962083323856
+64,2347165,YASH TOLANI,MALE,yash.tolani@mca.christuniversity.in,MCA A,Comportement,FTI + PBPPO,Conversation Designer Intern,-,15K,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.6869533838981339
+65,2348531,MANU MARTIN,MALE,manu.martin@msam.christuniversity.in,MSc AIML,Comportement,FTI + PBPPO,Conversation Designer Intern,-,15K,Department,NA,NA,NA,NA,NA,NA,NA,NA,2.5054546160720856
+66,2347156,SHRUTI KUMARI,FEMALE,shruti.kumari@mca.christuniversity.in,MCA A,AP Moller Maersk,FTI + PBPPO,Data Engineer Intern,9LPA,50k,Department,NA,NA,NA,NA,NA,NA,NA,NA,6.235506704714581
+67,2347223,HIRAN GEORGE,MALE,hiran.george@mca.christuniversity.in,MCA B,AP Moller Maersk,FTI + PBPPO,Data Engineer Intern,9LPA,50k,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.818229792817733
+68,2347262,TUSHAR SAKHUJA,MALE,tushar.sakhuja@mca.christuniversity.in,MCA B,Skylink Communications,OC,End-to-End Development,NA,8k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,6.027275824272927
+69,2347244,PAVITHARANI G P,FEMALE,pavitharani.gp@mca.christuniversity.in,MCA B,Cyberleap,OC,Cybersecurity Intern,NA,15k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,3.813779137205976
+70,2347121,JOSEPH PAUL,MALE,joseph.paul@mca.christuniversity.in,MCA A,Crudops,OC,Junior Software Developer Intern,NA,11K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,0.931550589554281
+71,2347254,SHIVANSHI SINGH,FEMALE,shivanshi.singh@mca.christuniversity.in,MCA B,Datami Mobile Solutions (reach),OC,Intern,NA,10k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,6.506379366771832
+72,2347124,KEERTHANA C,FEMALE,keerthana.c@mca.christuniversity.in,MCA A,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.2077232229963033
+73,2347142,RAVI RAY,MALE,ravi.ray@mca.christuniversity.in,MCA A,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,5.881008013080302
+74,2347153,SHIKHA AGRAWAL,FEMALE,shikha.agrawal@mca.christuniversity.in,MCA A,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,2.079414480806416
+75,2347204,ADITI PATEL,FEMALE,aditi.patel@mca.christuniversity.in,MCA B,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.6337562932262544
+76,2347225,JAGRATI JAIN,FEMALE,jagrati.jain@mca.christuniversity.in,MCA B,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.1687523649954041
+77,2347229,KALPANA N,FEMALE,kalpana.n@mca.christuniversity.in,MCA B,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,2.0801983486614053
+78,2347245,PEARL VEOLA DSILVA,FEMALE,pearlveola.dsilva@mca.christuniversity.in,MCA B,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.470165470715873
+79,2347250,SAGAR GURUNG,MALE,sagar.gurung@mca.christuniversity.in,MCA B,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.277756608079706
+80,2347253,SHAWN BIJU THOMAS,MALE,shawn.biju@mca.christuniversity.in,MCA B,CAPGEMINI,FTE,Analyst,4 LPA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.182719982511415
+81,2347129,MUSHABBAR AHMED,MALE,mushabbar.ahmed@mca.christuniversity.in,MCA A,INFINITE LOCUS,FTI + PBPPO,Quality Analyst,6 LPA,25k,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.160091003385545
+82,2348542,PURUSHARTH MALIK,MALE,purusharth.malik@msam.christuniversity.in,MSc AIML,Mowito Automation Pvt. Ltd.,OC,Computer Vision Intern,NA,35k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,4.61791387417884
+83,2348520,HIMANSHU GULECHHA,MALE,himanshu.gulechha@msam.christuniversity.in,MSc AIML,Aarushe Ethnic World,OC,Business Analyst,NA,35k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,6.610161884874405
+84,2348560,SNEHA P,FEMALE,sneha.p@msam.christuniversity.in,MSc AIML,Saara,OC,Data Science Intern ,NA,20k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,2.7505263566478733
+85,2347233,LAHARI R,FEMALE,lahari.r@mca.christuniversity.in,MCA B,Greenway Health,FTI,Trainee,NA,40k,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,5.331475015131397
+86,2348534,MUZZAMMIL RAZIN P A,MALE,muzzammil.razin@msam.christuniversity.in,MSc AIML,Cloud For Work,OC,Technical AI Consultant,NA,60k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,1.1922702311651763
+87,2348543,RAGHAV SURI,MALE,raghav.suri@msam.christuniversity.in,MSc AIML,Unacademy,OC,AI Tech Intern,NA,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,0.9395855738013649
+88,2347235,MAHUA SAIKIA,FEMALE,mahua.saikia@mca.christuniversity.in,MCA B,Isoft technologies,OC,AI Engineer intern,NA,200$,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,7.844201148261584
+89,2348559,SIMRAN BASU,FEMALE,simran.basu@msam.christuniversity.in,MSc AIML,Exotel,OC,Ai Product Support Intern,NA,20k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,1.7295796880507264
+90,2348556,SHILADITYA SARKAR,MALE,shiladitya.sarkar@msam.christuniversity.in,MSc AIML,Inito,OC,AI Engineer,NA,35K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,2.5211510046074834
+91,2348529,MANAV GUPTA,MALE,manav.gupta@msam.christuniversity.in,MSc AIML,AK Incast Metals,OC,Business Analyst,NA,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,4.054425279028459
+92,2348538,NOEL MATHEW THOMAS,MALE,noel.thomas@msam.christuniversity.in,MSc AIML,Synyx-AI,OC,AI intern,NA,20k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,6.980674403274468
+93,2348508,BAGYALAKSHMI S SHINDE,FEMALE,bagyalakshmi.shinde@msam.christuniversity.in,MSc AIML,Immerso.ai,OC,Computer vision engineer,NA,30k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,1.2463195674446736
+94,2348536,NANDITHA S,FEMALE,nanditha.s@msam.christuniversity.in,MSc AIML,Immerso.ai,OC,Computer Vision Engineer,NA,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,8.414038702237587
+95,2348530,MANESH SUHAS S M,MALE,manesh.suhas@msam.christuniversity.in,MSc AIML,Kashi Timbers Depot,OC,Data Analyst,NA,15k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,8.026435250193424
+96,2347107,ARYAN MAJHI,MALE,aryan.majhi@mca.christuniversity.in,MCA A,PWC,FTE,DAT Audit,NA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,6.100564749941615
+97,2347130,MUSKAN KUMARI GUPTA,FEMALE,muskan.kumarigupta@mca.christuniversity.in,MCA A,PWC,FTE,DAT Audit,NA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.9429741655438075
+98,2347219,CLEMENT ALOYSIUS G,MALE,clement.aloysius@mca.christuniversity.in,MCA B,PWC,FTE,DAT Audit,NA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,7.863358543849119
+99,2347251,SAMARTH A,MALE,samarth.a@mca.christuniversity.in,MCA B,PWC,FTE,DAT Audit,NA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,0.20239943438026436
+100,2347255,SHREYA GOEL,FEMALE,shreya.goel@mca.christuniversity.in,MCA B,PWC,FTE,DAT Audit,NA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,5.3180084599301845
+101,2347131,NAIR VISHNU MURALEEDHARAN,MALE,vishnu.muraleedharan@mca.christuniversity.in,MCA A,Shoffr,OC,Backend Engineer ,6 LPA,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,1.177223938961217
+102,2347103,ANSHIKA YADAV,FEMALE,anshika.yadav@mca.christuniversity.in,MCA A,Connect and Heal,FTI + PBPPO,Frontend Engineer,4-5 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,5.306633458144186
+103,2347116,FREDIN JOHNS,MALE,fredin.johns@mca.christuniversity.in,MCA A,Connect and Heal,FTI + PBPPO,Backend Engineer ,4-5 LPA,25k,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,6.942451558532828
+104,2347133,NAVEEN JOHN,MALE,naveen.john@mca.christuniversity.in,MCA A,Connect and Heal,FTI + PBPPO,Backend Engineer ,4-5 LPA,25k,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,3.668881530403864
+105,2347235,MAHUA SAIKIA,FEMALE,mahua.saikia@mca.christuniversity.in,MCA B,Connect and Heal,FTI + PBPPO,Operations,4-5 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.073936350551168
+106,2348504,ANUSH VERMA,MALE,anush.verma@msam.christuniversity.in,MSc AIML,Connect and Heal,FTI + PBPPO,Data Analytics,4-5 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,4.272630376907518
+107,2348572,VIVEGAVANE D,FEMALE,vivegavane.d@msam.christuniversity.in,MSc AIML,Connect and Heal,FTI + PBPPO,Operations,4-5 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,2.362312010529926
+108,2348517,EPSITA R,FEMALE,epsita.r@msam.christuniversity.in,MSc AIML,Connect and Heal,FTI + PBPPO,Data Analytics,4-5 LPA,NA,CPCG,NA,NA,NA,NA,NA,NA,NA,NA,1.8996761928461567
+109,2347211,ANNMARY BABY,FEMALE,annmarybaby@mca.christuniversity.in,MCA B,Nova Healthcare Management Systems Limited,OC,AI/ML Intern,NA,20K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,0.23436157598145518
+110,2348516,ELIZABETH GEORGE,FEMALE,elizabeth.george@msam.christuniversity.in,MSc AIML,Cyberleap ,OC,Cybersecurity Intern ,NA,15000,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,7.188171440580457
+111,2348545,SHRUTI INDRESH RANJAN,FEMALE,ranjanshruti.indresh@msam.christuniversity.in,MSc AIML,Ralph Lauren,FTI4,Data Analytics ,-,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,7.4588773842613465
+112,2347148,SANTHOSH KUMAR P,MALE,santhosh.kumar@mca.christuniversity.in,MCA A,Saas Controls Pvt. Ltd.,OC,Software Developer,NA,10K,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,6.375758463207813
+113,2347158,SILIS MARY SEBASTIAN,FEMALE,silis.mary@mca.christuniversity.in,MCA A,XTG Technologies ,OC,Software engineer intern,NA,10k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,4.009837217168265
+114,2347221,DHANWIN K B,MALE,dhanwin.kb@mca.christuniversity.in,MCA B,Webengage,OC,Product Support Engineer,5.75,45k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,2.1780106346465136
+115,2347240,NAYAN RAJ,MALE,nayan.raj@mca.christuniversity.in,MCA B,IQVIA,OC,Intern,8 LPA,18000,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,0.5890189599468463
+116,2348522,JOHN JUSTINE KATTAKAYAM,MALE,john.justine@msam.christuniversity.in,MSc AIML,Bajaj Allianz,OC,Analyst Intern,NA,15k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,5.818794018269816
+117,2347217,BALLA KOUSHIK,MALE,balla.koushik@mca.christuniversity.in,MCA B,Redinext,FTI + PBPPO,Software Engineer,5-10 LPA,10k,Department,NA,NA,NA,NA,NA,NA,NA,NA,6.763522795941884
+118,2347201,AARON JOJU,MALE,aaron.joju@mca.christuniversity.in,MCA B,Redinext,FTI + PBPPO,Software Engineer,5-10 LPA,10k,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.75805068525965
+119,2348554,SATYAM JHAWAR,MALE,satyam.jhawar@msam.christuniversity.in,MSc AIML,SELA,OC,SELA,-,20k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,1.7930375645379801
+120,2347108,ATHUL RAJA,MALE,athul.raja@mca.christuniversity.in,MCA A,Quintype Technologies,OC,Quintype Technologies,-,12k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,4.483732517710277
+121,2347128,MATHEW JYOTHIS JIMMY,MALE,mathew.jyothis@mca.christuniversity.in,MCA A,Anunta Technologies,OC,Anunta Technologies,-,18k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,2.2595468737089854
+122,2348551,SANIN ZULPHI M,MALE,sanin.zulphi@msam.christuniversity.in,MSc AIML,Inflexion Analytics,OC,Data Engineer Intern,-,25k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,5.413222588910366
+123,2347125,KUSHAL SOURAV B,MALE,kushal.sourav@mca.christuniversity.in,MCA A,Neostats,OC,Full Stack Developer,NA,NA,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,3.479734466741995
+124,2347105,ANUSHA KUMAR G,MALE,anusha.kumar@mca.christuniversity.in,MCA A,Neostats,OC,Data Engineer,NA,NA,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,4.742881391743782
+125,2347243,PAVAN KUMAR C,MALE,pavankumar.c@mca.christuniversity.in,MCA B,Neostats,OC,Full Stack Developer,NA,NA,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,2.694962768673453
+126,2347252,SANJAY KANDPAL,MALE,sanjay.kandpal@mca.christuniversity.in,MCA B,Neostats,OC,Full Stack Developer,NA,NA,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,3.5152475305592485
+127,2347263,VIKRAM VINODH,MALE,vikram.vinodh@mca.christuniversity.in,MCA B,Kandra Digital ,OC,Web Developer,7LPA,50k,Off Campus,NA,NA,NA,NA,NA,NA,NA,NA,1.147067479565419
+128,2347127,MANUEL JOSHY VADAKKETHALA,MALE,manuel.joshy@mca.christuniversity.in,MCA A,SYSFORE TECHNOLOGIES,FTI + PBPPO,Associate Software Engineer,NA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,2.356888825156897
+129,2347147,SAISRI B,FEMALE,saisri.b@mca.christuniversity.in,MCA A,SYSFORE TECHNOLOGIES,FTI + PBPPO,Associate Software Engineer,NA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.9868695499985383
+130,2347150,SATCHI BAGHLA,FEMALE,satchi.baghla@mca.christuniversity.in,MCA A,SYSFORE TECHNOLOGIES,FTI + PBPPO,Associate Software Engineer,NA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,3.370821682156457
+131,2347206,AKSHAY S,MALE,akshay.s@mca.christuniversity.in,MCA B,SYSFORE TECHNOLOGIES,FTI + PBPPO,Associate Software Engineer,NA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,1.3941531444654558
+132,2347212,ANSH BHANDARI,MALE,ansh.bhandari@mca.christuniversity.in,MCA B,SYSFORE TECHNOLOGIES,FTI + PBPPO,Associate Software Engineer,NA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,6.6699061064353105
+133,2347227,JOE PAYYAPPILLY,MALE,joe.payyappilly@mca.christuniversity.in,MCA B,SYSFORE TECHNOLOGIES,FTI + PBPPO,Associate Software Engineer,NA,NA,Department,NA,NA,NA,NA,NA,NA,NA,NA,6.3673398882032615
